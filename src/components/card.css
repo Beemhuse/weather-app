@@ -1,0 +1,7 @@
+.card{
+    /* margin-top: 30px; */
+    height: 50vh;
+    width: 600px;
+    background-color: white;
+    box-shadow: 3px 4px 10px rgba(19, 100, 299, 0.2);
+}

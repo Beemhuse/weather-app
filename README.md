@@ -20,6 +20,8 @@ You can decide to use any css framework you are familiar with
 5. Sass 
 etc
 
+### Please read more on react components and props to understand it better, thanks
+
 
 
 
